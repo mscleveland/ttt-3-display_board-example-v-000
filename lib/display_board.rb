@@ -1,8 +1,8 @@
 def display_board
   # board =
   puts "   |   |   "
-  puts "___________"
+  puts "-----------"
   puts "   |   |   "
-  puts "___________"
+  puts "-----------"
   puts "   |   |   "
-end  
+end
